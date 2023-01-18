@@ -15,5 +15,11 @@
         "max": 12
       }
     }
+  },
+  "Status": {
+    "_": {
+      "items": 1
+    },    
+    "isFunctional": {"boolean": {} }
   }
 }
